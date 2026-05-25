@@ -1,0 +1,16 @@
+# Godot
+.godot/
+*.godot
+
+# Build outputs (large binaries - don't track)
+*.exe
+*.apk
+*.dmg
+*.console.exe
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log

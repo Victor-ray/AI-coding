@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://story_scene"]
+
+[ext_resource type="Script" path="res://Scenes/Story/StoryScene.gd" id="1_story"]
+
+[node name="StoryScene" type="Control"]
+script = ExtResource("1_story")

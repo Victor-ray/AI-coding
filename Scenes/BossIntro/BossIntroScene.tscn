@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://boss_intro_scene"]
+
+[ext_resource type="Script" path="res://Scenes/BossIntro/BossIntroScene.gd" id="1_bossintro"]
+
+[node name="BossIntroScene" type="Control"]
+script = ExtResource("1_bossintro")
