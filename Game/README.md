@@ -40,3 +40,4 @@ Game/
 ├── Global.gd       # 全局数据
 └── project.godot   # 项目配置
 ```
+文档链接🔗（含有安装包）：https://my.feishu.cn/wiki/H4IewobHwi7SpikY7WMc3Z4rn6c?from=from_copylink
